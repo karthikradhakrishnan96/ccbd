@@ -1,0 +1,18 @@
+4 cores 1000 sent
+For 46 calls to cost total time taken is 1034.34592128
+Per call avg time taken is 22.4857808973
+For 46 calls to gradient total time taken is 4372.69048858
+Per call avg time taken is 95.0584888821
+
+6 cores 100 sent
+For 39 calls to cost total time taken is 64.3122835159
+Per call avg time taken is 1.64903291066
+For 39 calls to gradient total time taken is 325.49312067
+Per call avg time taken is 8.34597745309
+
+4 cores 100 sent
+For 39 calls to cost total time taken is 65.3323376179
+Per call avg time taken is 1.67518814405
+For 39 calls to gradient total time taken is 305.491273403
+Per call avg time taken is 7.83310957444
+

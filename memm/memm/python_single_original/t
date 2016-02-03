@@ -1,0 +1,83 @@
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    5.676    5.676 /home/pratheek/work/memm/mach_1 - python single machine no spark /memm.py:74(train)
+        1    0.000    0.000    5.676    5.676 /usr/lib/python2.7/site-packages/scipy/optimize/_minimize.py:37(minimize)
+        1    0.000    0.000    5.676    5.676 /usr/lib/python2.7/site-packages/scipy/optimize/lbfgsb.py:199(_minimize_lbfgsb)
+        5    0.000    0.000    5.676    1.135 /usr/lib/python2.7/site-packages/scipy/optimize/lbfgsb.py:260(func_and_grad)
+       55    0.000    0.000    5.675    0.103 /usr/lib/python2.7/site-packages/scipy/optimize/optimize.py:280(function_wrapper)
+       55    0.528    0.010    5.675    0.103 /home/pratheek/work/memm/mach_1 - python single machine no spark /memm.py:54(cost)
+        5    0.001    0.000    5.162    1.032 /usr/lib/python2.7/site-packages/scipy/optimize/optimize.py:544(_approx_fprime_helper)
+   409460    1.513    0.000    4.071    0.000 /home/pratheek/work/memm/mach_1 - python single machine no spark /memm.py:50(get_features)
+   402380    1.026    0.000    1.026    0.000 {numpy.core.multiarray.dot}
+  4094600    0.620    0.000    0.620    0.000 {round}
+   409460    0.199    0.000    0.347    0.000 run.py:39(f1)
+  4094600    0.288    0.000    0.288    0.000 {method 'random' of '_random.Random' objects}
+   409460    0.166    0.000    0.252    0.000 run.py:42(f2)
+   409460    0.164    0.000    0.251    0.000 run.py:54(f6)
+   409460    0.161    0.000    0.247    0.000 run.py:45(f3)
+   409460    0.161    0.000    0.246    0.000 run.py:57(f7)
+   409460    0.161    0.000    0.245    0.000 run.py:66(f10)
+   409460    0.160    0.000    0.244    0.000 run.py:51(f5)
+   409460    0.159    0.000    0.243    0.000 run.py:63(f9)
+   409460    0.159    0.000    0.241    0.000 run.py:48(f4)
+   409460    0.159    0.000    0.241    0.000 run.py:60(f8)
+        1    0.011    0.011    0.087    0.087 /home/pratheek/work/memm/mach_1 - python single machine no spark /memm.py:10(__init__)
+   389400    0.080    0.000    0.080    0.000 {math.exp}
+       55    0.000    0.000    0.035    0.001 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:1681(array_str)
+       55    0.000    0.000    0.035    0.001 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:343(array2string)
+       55    0.002    0.000    0.034    0.001 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:233(_array2string)
+       55    0.001    0.000    0.015    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:465(_formatArray)
+      165    0.000    0.000    0.013    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:533(__init__)
+      165    0.007    0.000    0.013    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:547(fillFormat)
+      550    0.007    0.000    0.013    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:598(__call__)
+       55    0.000    0.000    0.008    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:700(__init__)
+     1430    0.003    0.000    0.006    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:2428(seterr)
+      191    0.005    0.000    0.005    0.000 {numpy.core.multiarray.array}
+    12980    0.005    0.000    0.005    0.000 {math.log}
+      715    0.001    0.000    0.004    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:2813(__enter__)
+      715    0.001    0.000    0.004    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:2818(__exit__)
+      428    0.002    0.000    0.002    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+     1430    0.002    0.000    0.002    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:2524(geterr)
+       55    0.001    0.000    0.002    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:639(__init__)
+      102    0.000    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/fromnumeric.py:1764(any)
+      550    0.001    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:457(_extendLine)
+     7082    0.001    0.000    0.001    0.000 {method 'get' of 'dict' objects}
+     1430    0.001    0.000    0.001    0.000 {numpy.core.umath.seterrobj}
+      440    0.001    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:632(_digits)
+      715    0.001    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:2809(__init__)
+      102    0.000    0.000    0.001    0.000 {method 'any' of 'numpy.ndarray' objects}
+     7316    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+      102    0.000    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/_methods.py:37(_any)
+       55    0.000    0.000    0.001    0.000 /usr/lib/python2.7/site-packages/numpy/core/fromnumeric.py:1283(ravel)
+      165    0.001    0.000    0.001    0.000 {method 'compress' of 'numpy.ndarray' objects}
+     2860    0.000    0.000    0.000    0.000 {numpy.core.umath.geterrobj}
+     1856    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+     3155    0.000    0.000    0.000    0.000 {len}
+       56    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:394(asarray)
+      102    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/numeric.py:464(asanyarray)
+       55    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:716(__init__)
+       55    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:689(__init__)
+       55    0.000    0.000    0.000    0.000 {sum}
+      715    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+      116    0.000    0.000    0.000    0.000 {range}
+       99    0.000    0.000    0.000    0.000 {max}
+       56    0.000    0.000    0.000    0.000 {method 'ravel' of 'numpy.ndarray' objects}
+      165    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:661(__init__)
+      220    0.000    0.000    0.000    0.000 {issubclass}
+       55    0.000    0.000    0.000    0.000 {_functools.reduce}
+        2    0.000    0.000    0.000    0.000 {built-in method now}
+      101    0.000    0.000    0.000    0.000 {min}
+       21    0.000    0.000    0.000    0.000 {numpy.core.multiarray.zeros}
+       55    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/arrayprint.py:744(__init__)
+       10    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/numpy/core/getlimits.py:93(__new__)
+        8    0.000    0.000    0.000    0.000 {method 'tostring' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'total_seconds' of 'datetime.timedelta' objects}
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/scipy/optimize/optimize.py:275(wrap_function)
+        2    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/scipy/optimize/optimize.py:105(__getattr__)
+        1    0.000    0.000    0.000    0.000 /usr/lib/python2.7/site-packages/scipy/optimize/optimize.py:127(_check_unknown_options)
+        1    0.000    0.000    0.000    0.000 {method 'lower' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {callable}
+        1    0.000    0.000    0.000    0.000 {isinstance}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}

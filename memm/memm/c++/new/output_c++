@@ -1,0 +1,872 @@
+0	0	0	dim13num eg236all_y30
+emperical 25 reg 0 expected 1.2
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 195.3
+emperical 201 reg 0 expected 184
+emperical 17 reg 0 expected 0.766667
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 3.46667
+emperical 5 reg 0 expected 0.233333
+emperical 14 reg 0 expected 0.6
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.1
+emperical 5 reg 0 expected 0.166667
+emperical 0 reg 0 expected 0
+[	-23.8	-2.84217e-14	40.3	-17	-16.2333	0	2.46667	-4.76667	-13.4	0	-2.9	-4.83333	0		]
+iteration: 0   objective: 802.683
+dim13num eg236all_y30
+emperical 25 reg 0 expected 36
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 2.83229e-10
+emperical 201 reg 0 expected 230
+emperical 17 reg 0 expected 2.70761e-10
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.0147053
+emperical 5 reg 0 expected 8.6307e-16
+emperical 14 reg 0 expected 1.24632e-11
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 3.14726e-18
+emperical 5 reg 0 expected 5.24543e-18
+emperical 0 reg 0 expected 0
+[	11	-5.32907e-15	-155	29	-17	0	-0.985295	-5	-14	0	-3	-5	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 28.4569
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 22.9105
+emperical 201 reg 0 expected 228.13
+emperical 17 reg 0 expected 0.598707
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.508409
+emperical 5 reg 0 expected 0.0589375
+emperical 14 reg 0 expected 0.355231
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0157348
+emperical 5 reg 0 expected 0.0256766
+emperical 0 reg 0 expected 0
+[	3.45688	3.90799e-14	-132.09	27.1304	-16.4013	0	-0.491591	-4.94106	-13.6448	0	-2.98427	-4.97432	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 13.4931
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 106.861
+emperical 201 reg 0 expected 216.99
+emperical 17 reg 0 expected 1.09668
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 1.99802
+emperical 5 reg 0 expected 0.192142
+emperical 14 reg 0 expected 0.749641
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0652874
+emperical 5 reg 0 expected 0.105927
+emperical 0 reg 0 expected 0
+[	-11.5069	-2.84217e-14	-48.1388	15.9901	-15.9033	0	0.998016	-4.80786	-13.2504	0	-2.93471	-4.89407	0		]
+iteration: 1   objective: 749.685
+dim13num eg236all_y30
+emperical 25 reg 0 expected 10.9332
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 146.221
+emperical 201 reg 0 expected 208.765
+emperical 17 reg 0 expected 1.85988
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 2.53494
+emperical 5 reg 0 expected 0.274959
+emperical 14 reg 0 expected 1.22317
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0863935
+emperical 5 reg 0 expected 0.136262
+emperical 0 reg 0 expected 0
+[	-14.0668	-2.4869e-14	-8.77934	7.76455	-15.1401	0	1.53494	-4.72504	-12.7768	0	-2.91361	-4.86374	0		]
+iteration: 2   objective: 714.585
+dim13num eg236all_y30
+emperical 25 reg 0 expected 16.4715
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 162.349
+emperical 201 reg 0 expected 201.947
+emperical 17 reg 0 expected 5.04251
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 2.34618
+emperical 5 reg 0 expected 0.411141
+emperical 14 reg 0 expected 2.94402
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0952235
+emperical 5 reg 0 expected 0.127938
+emperical 0 reg 0 expected 0
+[	-8.52855	5.86198e-14	7.34886	0.946686	-11.9575	0	1.34618	-4.58886	-11.056	0	-2.90478	-4.87206	0		]
+iteration: 3   objective: 672.113
+dim13num eg236all_y30
+emperical 25 reg 0 expected 29.6849
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 166.949
+emperical 201 reg 0 expected 201.762
+emperical 17 reg 0 expected 18.3606
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 1.43616
+emperical 5 reg 0 expected 0.9892
+emperical 14 reg 0 expected 12.1445
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.100713
+emperical 5 reg 0 expected 0.0349663
+emperical 0 reg 0 expected 0
+[	4.68491	-2.66454e-14	11.9492	0.761611	1.36063	0	0.43616	-4.0108	-1.85549	0	-2.89929	-4.96503	0		]
+iteration: 4   objective: 633.687
+dim13num eg236all_y30
+emperical 25 reg 0 expected 26.9677
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 165.097
+emperical 201 reg 0 expected 183.694
+emperical 17 reg 0 expected 17.6487
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 1.07837
+emperical 5 reg 0 expected 1.56918
+emperical 14 reg 0 expected 13.3215
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0822098
+emperical 5 reg 0 expected 0.0327214
+emperical 0 reg 0 expected 0
+[	1.96768	-1.59872e-14	10.0965	-17.3055	0.648726	0	0.0783667	-3.43082	-0.678495	0	-2.91779	-4.96728	0		]
+iteration: 5   objective: 623.341
+dim13num eg236all_y30
+emperical 25 reg 0 expected 24.4884
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 155.427
+emperical 201 reg 0 expected 189.986
+emperical 17 reg 0 expected 17.3353
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.910305
+emperical 5 reg 0 expected 2.91763
+emperical 14 reg 0 expected 14.8422
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0768493
+emperical 5 reg 0 expected 0.0323198
+emperical 0 reg 0 expected 0
+[	-0.511598	-4.61853e-14	0.427016	-11.0137	0.335271	0	-0.0896952	-2.08237	0.842202	0	-2.92315	-4.96768	0		]
+iteration: 6   objective: 609.236
+dim13num eg236all_y30
+emperical 25 reg 0 expected 22.0215
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 143.913
+emperical 201 reg 0 expected 200.213
+emperical 17 reg 0 expected 18.1621
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.698271
+emperical 5 reg 0 expected 5.39897
+emperical 14 reg 0 expected 16.5789
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0717169
+emperical 5 reg 0 expected 0.0257087
+emperical 0 reg 0 expected 0
+[	-2.9785	-3.37508e-14	-11.087	-0.787006	1.16211	0	-0.301729	0.398966	2.57894	0	-2.92828	-4.97429	0		]
+iteration: 7   objective: 602.26
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	8.88178e-15	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+iteration: 8   objective: 602.067
+dim13num eg236all_y30
+emperical 25 reg 0 expected 22.7823
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 143.612
+emperical 201 reg 0 expected 210.848
+emperical 17 reg 0 expected 20.7249
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.430717
+emperical 5 reg 0 expected 6.99157
+emperical 14 reg 0 expected 17.9227
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0786204
+emperical 5 reg 0 expected 0.0132694
+emperical 0 reg 0 expected 0
+[	-2.21766	-5.68434e-14	-11.3877	9.8478	3.72487	0	-0.569283	1.99157	3.92273	0	-2.92138	-4.98673	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.8983
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.309
+emperical 201 reg 0 expected 205.282
+emperical 17 reg 0 expected 19.5053
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.591111
+emperical 5 reg 0 expected 6.65526
+emperical 14 reg 0 expected 17.4595
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0747578
+emperical 5 reg 0 expected 0.0193691
+emperical 0 reg 0 expected 0
+[	-3.10165	3.73035e-14	-10.6909	4.28183	2.50533	0	-0.408889	1.65526	3.45945	0	-2.92524	-4.98063	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7668
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.339
+emperical 201 reg 0 expected 204.359
+emperical 17 reg 0 expected 19.2959
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.619812
+emperical 5 reg 0 expected 6.43666
+emperical 14 reg 0 expected 17.2948
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0741787
+emperical 5 reg 0 expected 0.0203688
+emperical 0 reg 0 expected 0
+[	-3.23319	-1.77636e-15	-10.6606	3.35946	2.29595	0	-0.380188	1.43666	3.29484	0	-2.92582	-4.97963	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7394
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.163
+emperical 17 reg 0 expected 19.2514
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.626052
+emperical 5 reg 0 expected 6.37801
+emperical 14 reg 0 expected 17.2553
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740579
+emperical 5 reg 0 expected 0.0205796
+emperical 0 reg 0 expected 0
+[	-3.2606	-3.73035e-14	-10.66	3.16251	2.25144	0	-0.373948	1.37801	3.25532	0	-2.92594	-4.97942	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7336
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.121
+emperical 17 reg 0 expected 19.242
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627385
+emperical 5 reg 0 expected 6.36493
+emperical 14 reg 0 expected 17.2467
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740324
+emperical 5 reg 0 expected 0.0206243
+emperical 0 reg 0 expected 0
+[	-3.2664	-2.4869e-14	-10.6602	3.12061	2.24198	0	-0.372615	1.36493	3.24671	0	-2.92597	-4.97938	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7324
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.112
+emperical 17 reg 0 expected 19.24
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627668
+emperical 5 reg 0 expected 6.36214
+emperical 14 reg 0 expected 17.2449
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.074027
+emperical 5 reg 0 expected 0.0206338
+emperical 0 reg 0 expected 0
+[	-3.26762	5.32907e-14	-10.6602	3.11174	2.23998	0	-0.372332	1.36214	3.24488	0	-2.92597	-4.97937	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7321
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.11
+emperical 17 reg 0 expected 19.2396
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627727
+emperical 5 reg 0 expected 6.36155
+emperical 14 reg 0 expected 17.2445
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740258
+emperical 5 reg 0 expected 0.0206358
+emperical 0 reg 0 expected 0
+[	-3.26788	3.73035e-14	-10.6602	3.10987	2.23956	0	-0.372273	1.36155	3.24449	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7321
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2395
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.62774
+emperical 5 reg 0 expected 6.36142
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740256
+emperical 5 reg 0 expected 0.0206362
+emperical 0 reg 0 expected 0
+[	-3.26794	-3.55271e-15	-10.6603	3.10947	2.23947	0	-0.37226	1.36142	3.24441	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.7321
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2395
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.3614
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	2.30926e-14	-10.6603	3.10939	2.23945	0	-0.372257	1.3614	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	-1.24345e-14	-10.6603	3.10937	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	-2.66454e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	2.84217e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	2.4869e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.95399e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	-4.26326e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.24345e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	3.55271e-15	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.95399e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	3.90799e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	2.84217e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	2.30926e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.77636e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+dim13num eg236all_y30
+emperical 25 reg 0 expected 21.732
+emperical 11 reg 0 expected 11
+emperical 155 reg 0 expected 144.34
+emperical 201 reg 0 expected 204.109
+emperical 17 reg 0 expected 19.2394
+emperical 0 reg 0 expected 0
+emperical 1 reg 0 expected 0.627743
+emperical 5 reg 0 expected 6.36139
+emperical 14 reg 0 expected 17.2444
+emperical 0 reg 0 expected 0
+emperical 3 reg 0 expected 0.0740255
+emperical 5 reg 0 expected 0.0206363
+emperical 0 reg 0 expected 0
+[	-3.26795	1.59872e-14	-10.6603	3.10936	2.23945	0	-0.372257	1.36139	3.24439	0	-2.92597	-4.97936	0		]
+iteration: 9   objective: 602.067
+For 57 calls to cost, total time taken is 832 milliseconds
+Per call, avg time is 14 milliseconds
+For 57 calls to gradient, total time taken is 1639 milliseconds
+Per call, avg time is 28 milliseconds
+Trained model
+2.5429	4.57957e-14	-1.54415	-0.0140456	5.31205	0	-0.942388	5.97788	6.80725	0	4.64094	7.88059	0	2.42092e-322	13 : 1
+Success
